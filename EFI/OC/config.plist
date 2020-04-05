@@ -1021,17 +1021,17 @@
 			<key>AdviseWindows</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02036609GULNV98C</string>
+			<string></string>
 			<key>ROM</key>
-			<data>PI+8u8JO</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DCBZJJV3Q</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>BB534BE0-89BE-4CD9-8AE6-564F090FC096</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
