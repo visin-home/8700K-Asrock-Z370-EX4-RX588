@@ -36,8 +36,7 @@ This repository provides OpenCore configuration files for 8700K-Asrock-Z370EX4-R
 3. 唤醒 OK.
 4. 声卡 OK.
 5. 声卡 OK.
-6. HDMI&音频 OK.
-7.硬解 OK.
+6. 硬解 OK.
  
 ### 不工作&不完善:
 
