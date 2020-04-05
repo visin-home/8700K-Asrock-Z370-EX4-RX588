@@ -26,6 +26,8 @@
 			<string>com.apple.driver.AppleUSBMergeNub</string>
 			<key>DisplayProductID</key>
 			<integer>10352</integer>
+			<key>DisplayProductName</key>
+			<string>Apple Pro Display XDR</string>
 			<key>DisplayVendorID</key>
 			<integer>1507</integer>
 			<key>IOClass</key>
@@ -36,69 +38,15 @@
 			<string>AppleDisplay</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
-				<key>DisplayProductID</key>
-				<integer>37415</integer>
 				<key>DisplayProductName</key>
-				<string>U2870</string>
-				<key>DisplaySerialNumber</key>
-				<integer>371392543</integer>
-				<key>DisplayVendorID</key>
-				<integer>1552</integer>
-				<key>IODisplayCapabilityString</key>
-				<data>
-				cHJvdChtb25pdG9yKSB0eXBlKExDRCkgbW9kZWwoVGh1
-				bmRlcmJvbHQgRGlzcGxheSkgY21kcygwMSAwMiAwMyBF
-				MyBGMykgVkNQKDAyIDA1IDEwIDUyIDYyIDY2IDhEIDkz
-				IEI2IEMwIEM4IEM5IENBIEQ2KDAxIDAyIDAzIDA0KSBE
-				RiBFOSBFQiBFRCBGRCkgbWNjc192ZXIoMi4yKQ==
-				</data>
-				<key>IODisplayConnectFlags</key>
-				<data>
-				AAAAAA==
-				</data>
-				<key>IODisplayControllerID</key>
-				<data>
-				AAAA/w==
-				</data>
+				<string>Apple Pro Display XDR</string>
 				<key>IODisplayEDID</key>
 				<data>
-				AP///////wAGECeSHwAjFiMWAQS1PCJ4Im+xp1VMniUM
-				UFS/7wDRwLMAlQCBgIFAgcABAQEBTdAAoPBwPoAwIDUA
-				bVUhAAAaAAAA/wBDMDJKOTAwWEYyR0MKAAAA/QAXUB6g
-				PAEKICAgICAgAAAA/ABUaHVuZGVyYm9sdAogAWg=
+				AP///////wAGEHycHwAjFiMWAQS1PCJgIm+xp1VMniUM
+				UFShCADRwIHAqcDRAIGAqUABAQEBCOgAMPJwWoCwWIoA
+				xI4hAAAeAAAA/wBDMDJKOTAwWEYyR0MKAAAA/ABUaHVu
+				ZGVyYm9sdAogAAAA/QAySx+MPAAKICAgICAgAeg=
 				</data>
-				<key>IODisplayFirmwareLevel</key>
-				<data>
-				//8BOA==
-				</data>
-				<key>IODisplayMCCSVersion</key>
-				<data>
-				AAICAA==
-				</data>
-				<key>IODisplayPrefsKey</key>
-				<string>IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/PEG0@1/IOPP/GFX0@0/ATY,AMD,RadeonFramebuffer@1/AMDFramebufferVIB/display0/AppleDisplay-610-9227</string>
-				<key>IODisplayTechnologyType</key>
-				<data>
-				AP8CAw==
-				</data>
-				<key>scale-resolutions</key>
-				<array>
-					<data>
-					AAAeAAAAEOAAAAABACAAAA==
-					</data>
-					<data>
-					AAAaQAAADsQAAAABACAAAA==
-					</data>
-					<data>
-					AAAXgAAADTgAAAABACAAAA==
-					</data>
-					<data>
-					AAAUAAAAC0AAAAABACAAAA==
-					</data>
-					<data>
-					AAAPAAAACHAAAAABACAAAA==
-					</data>
-				</array>
 			</dict>
 		</dict>
 	</dict>
