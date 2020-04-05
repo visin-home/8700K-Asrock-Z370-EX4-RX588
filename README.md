@@ -1,6 +1,6 @@
 # 8700K-Asrock-Z370EX4-RX588(OpenCore)
 
-This repository provides OpenCore configuration files for Shinelon-N650DU-QN8J. 
+This repository provides OpenCore configuration files for 8700K-Asrock-Z370EX4-RX588. 
 
 [![release](https://img.shields.io/badge/下载-release-blue.svg)](https://github.com/visin-home/8700K-Asrock-Z370-EX4-RX588/releases) 
 
@@ -22,6 +22,8 @@ This repository provides OpenCore configuration files for Shinelon-N650DU-QN8J.
 
 ## 详情
     之前用的是 Clover 引导,但太臃肿了,不好维护,再加上很多驱动已经不对 Clover 进行测试了,所以转为了 OpenCore 进行引导.
+    因我用的是 8700K ES CPU(QN8G),在关于页面不显示CPU 型号,所以我用了完整的PlatformInfo.如果你的是正式版的 CPU 
+    请用 ProperTree 打开 Config.plist,删除PlatformInfo项;并把#PlatformInfo项的#号删掉,填写里面的三码即可.
     
 
 1. 添加 CPUFriend.kext,低频 800MHz.
@@ -34,8 +36,7 @@ This repository provides OpenCore configuration files for Shinelon-N650DU-QN8J.
 3. 唤醒 OK.
 4. 声卡 OK.
 5. 声卡 OK.
-6. HDMI&音频 OK.
-7.硬解 OK.
+6. 硬解 OK.
  
 ### 不工作&不完善:
 
