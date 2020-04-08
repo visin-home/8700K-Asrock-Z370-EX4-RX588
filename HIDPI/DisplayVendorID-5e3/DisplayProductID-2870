@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayHasHardwareBrightnessSmoothing</key>
+	<real>1</real>
+	<key>DisplayProductID</key>
+	<integer>10352</integer>
+	<key>DisplayProductName</key>
+	<string>Apple Pro Display XDR</string>
+	<key>DisplayVendorID</key>
+	<integer>1507</integer>
+	<key>IODisplayEDID</key>
+	<data>
+	AP///////wAGECeSHwAjFiMWAQS1PCJ4Im+xp1VMniUMUFShCADRwIHAqcDRAIGAqUAB
+	AQEBCOgAMPJwWoCwWIoAxI4hAAAeAAAA/wBDMDJKOTAwWEYyR0MKAAAA/ABUaHVuZGVy
+	Ym9sdAogAAAA/QAySx+MPAAKICAgICAgAS8=
+	</data>
+	<key>scale-resolutions</key>
+	<array>
+		<data>
+		AAAeAAAAEOAAAAAB
+		</data>
+		<data>
+		AAAeAAAAEOAAAAABACAAAA==
+		</data>
+		<data>
+		AAAUAAAAC0AAAAAB
+		</data>
+		<data>
+		AAAUAAAAC0AAAAABACAAAA==
+		</data>
+		<data>
+		AAAQAAAACQAAAAAB
+		</data>
+		<data>
+		AAAQAAAACQAAAAABACAAAA==
+		</data>
+		<data>
+		AAAPAAAACHAAAAAB
+		</data>
+		<data>
+		AAAPAAAACHAAAAABACAAAA==
+		</data>
+	</array>
+	<key>target-default-ppmm</key>
+	<real>8.5329999999999995</real>
+</dict>
+</plist>
